@@ -7,7 +7,7 @@ the file type.
 
 Build the linters with
 
-    setup.py
+    ./bootstrap.py
 
 Add the xlint directory to your path or simlink the xlint script in a directory
 which is already on your path.
